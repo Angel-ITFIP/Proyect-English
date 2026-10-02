@@ -17,149 +17,136 @@
    1. SPANISH TEXTS
    ------------------------------------------------------------ */
 const ES = {
-  "nav.home":      "INICIO",
-  "nav.about":     "SOBRE MÍ",
-  "nav.skills":    "HABILIDADES",
-  "nav.resume":    "FORMACIÓN",
+  "nav.home": "INICIO",
+  "nav.about": "SOBRE MÍ",
+  "nav.skills": "HABILIDADES",
+  "nav.resume": "FORMACIÓN",
   "nav.portfolio": "PROYECTOS",
-  "nav.contact":   "CONTACTO",
+  "nav.contact": "CONTACTO",
 
-  "hero.role": "Desarrollador Web · Soporte Técnico",
+  "hero.role": "Estudiante de Programación Web",
 
-  "about.title":          "Sobre Mí",
-  "about.text":           "[Escribe aquí dos o tres frases sobre ti: qué estudias, qué te interesa dentro del desarrollo web y qué estás buscando ahora.]",
-  "about.infoTitle":      "Información",
-  "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "[Ciudad], Colombia",
-  "about.labelEmail":     "Correo",
+  "about.title": "Sobre Mí",
+  "about.text": "Soy estudiante de cuarto semestre de Técnico Profesional en Programación Web. Estoy interesado en estudiar y seguir desarrollando mis conocimientos en programación, desarrollo web y creación de software. Me interesa aprender nuevas tecnologías y aplicar mis conocimientos en proyectos académicos.",
+  "about.infoTitle": "Información",
+  "about.labelLocation": "Ubicación",
+  "about.valueLocation": "Espinal-Tolima, Colombia",
+  "about.labelEmail": "Correo",
   "about.labelLanguages": "Idiomas",
-  "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
-  "about.labelStatus":    "Disponibilidad",
-  "about.valueStatus":    "Abierto a prácticas",
+  "about.valueLanguages": "Español (nativo) · Inglés (B1)",
+  "about.labelStatus": "Estado",
+  "about.valueStatus": "Estudiante activo",
   "about.interestsTitle": "Intereses",
 
-  "interest.1": "CÓDIGO",
-  "interest.2": "SOPORTE",
-  "interest.3": "LECTURA",
-  "interest.4": "JUEGOS",
+  "interest.1": "PROGRAMACIÓN",
+  "interest.2": "DESARROLLO WEB",
+  "interest.3": "DEPORTE",
+  "interest.4": "CULTURA",
+  "interest.5": "ESTUDIO",
 
-  "skills.title":        "Habilidades",
-  "skills.technical":    "Habilidades técnicas",
+  "skills.title": "Habilidades",
+  "skills.technical": "Habilidades técnicas",
   "skills.professional": "Habilidades profesionales",
-  "skill.support":       "Soporte al usuario",
-  "skill.teamwork":      "Trabajo en equipo",
-  "skill.problem":       "Resolución de problemas",
-  "skill.english":       "Inglés técnico",
+  "skill.support": "Aprendizaje continuo",
+  "skill.teamwork": "Trabajo en equipo",
+  "skill.problem": "Resolución de problemas",
+  "skill.english": "Inglés técnico",
 
-  "resume.title":      "Formación y experiencia",
-  "resume.education":  "Formación",
+  "resume.title": "Formación y experiencia",
+  "resume.education": "Formación",
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.1.text": "Actualmente curso cuarto semestre y he desarrollado conocimientos en programación, desarrollo web y diferentes tecnologías de software.",
+  "edu.2.title": "Formación académica en desarrollo de software",
+  "edu.2.text": "Durante mi formación he desarrollado conocimientos prácticos mediante proyectos académicos relacionados con programación y desarrollo de aplicaciones.",
 
-  "exp.1.title": "[Rol o tipo de proyecto]",
-  "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
-  "exp.2.title": "[Rol o tipo de proyecto]",
-  "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.1.title": "Proyecto de videojuego de misterios y puzzles",
+  "exp.1.text": "Participé en el desarrollo de un videojuego académico enfocado en misterios y puzzles, utilizando herramientas de programación y desarrollo de videojuegos.",
+  "exp.2.title": "Sistema de monitoreo de humedad",
+  "exp.2.text": "Desarrollé un proyecto académico orientado al monitoreo de humedad para apoyar el seguimiento de las condiciones del suelo mediante tecnología y software.",
 
   "portfolio.title": "Proyectos",
-  "project.1.title": "[Nombre del proyecto]",
-  "project.1.text":  "[Tecnologías usadas]",
-  "project.2.title": "[Nombre del proyecto]",
-  "project.2.text":  "[Tecnologías usadas]",
-  "project.3.title": "[Nombre del proyecto]",
-  "project.3.text":  "[Tecnologías usadas]",
+  "project.1.title": "Videojuego de Misterios y Puzzles",
+  "project.1.text": "Godot · GDScript · Desarrollo de videojuegos",
+  "project.2.title": "Sistema de Monitoreo de Humedad",
+  "project.2.text": "Software · Sensores · Monitoreo de humedad",
+  "project.3.title": "Proyecto académico",
+  "project.3.text": "Programación · Desarrollo de software",
 
-  "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
-  "contact.emailLabel":    "Correo",
-  "contact.linkedinValue": "[Tu perfil profesional]",
+  "contact.title": "Contacto",
+  "contact.intro": "Puedes contactarme por correo electrónico para conocer más sobre mis proyectos académicos y mi formación en programación.",
+  "contact.emailLabel": "Correo",
+  "contact.linkedinValue": "Perfil profesional",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Angel Eduardo Duran Angarita · Técnico Profesional en Programación Web · UniEspinal"
 };
 
-
-/* ------------------------------------------------------------
-   2. ENGLISH TEXTS
-
-   Before writing this section, remember:
-   - Use action verbs: built, configured, fixed, tested, supported.
-   - Do not include age, marital status or a home address.
-   - Do not translate word by word. Rewrite.
-   ------------------------------------------------------------ */
 const EN = {
-  "nav.home":      "HOME",
-  "nav.about":     "ABOUT",
-  "nav.skills":    "SKILLS",
-  "nav.resume":    "RESUME",
+  "nav.home": "HOME",
+  "nav.about": "ABOUT",
+  "nav.skills": "SKILLS",
+  "nav.resume": "EDUCATION",
   "nav.portfolio": "PROJECTS",
-  "nav.contact":   "CONTACT",
+  "nav.contact": "CONTACT",
 
-  "hero.role": "Web Developer · Technical Support",
+  "hero.role": "Web Programming Student",
 
-  "about.title":          "About Me",
-  "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
-  "about.infoTitle":      "Information",
-  "about.labelLocation":  "Location",
-  "about.valueLocation":  "[City], Colombia",
-  "about.labelEmail":     "Email",
+  "about.title": "About Me",
+  "about.text": "I am a fourth-semester Professional Technician in Web Programming student. I am interested in learning and improving my skills in programming, web development, and software creation. I enjoy learning new technologies and applying my knowledge to academic projects.",
+  "about.infoTitle": "Information",
+  "about.labelLocation": "Location",
+  "about.valueLocation": "Espinal-Tolima, Colombia",
+  "about.labelEmail": "Email",
   "about.labelLanguages": "Languages",
-  "about.valueLanguages": "Spanish (native) · English ([your level])",
-  "about.labelStatus":    "Availability",
-  "about.valueStatus":    "Open to internships",
+  "about.valueLanguages": "Spanish (native) · English (B1)",
+  "about.labelStatus": "Status",
+  "about.valueStatus": "Active student",
   "about.interestsTitle": "Interests",
 
-  "interest.1": "CODE",
-  "interest.2": "SUPPORT",
-  "interest.3": "READING",
-  "interest.4": "GAMING",
+  "interest.1": "PROGRAMMING",
+  "interest.2": "WEB DEVELOPMENT",
+  "interest.3": "SPORTS",
+  "interest.4": "CULTURE",
+  "interest.5": "STUDY",
 
-  "skills.title":        "Skills",
-  "skills.technical":    "Technical skills",
-  "skills.professional": "Professional skills",
-  "skill.support":       "User support",
-  "skill.teamwork":      "Teamwork",
-  "skill.problem":       "Problem solving",
-  "skill.english":       "Technical English",
+  "skills.title": "Skills",
+  "skills.technical": "Technical Skills",
+  "skills.professional": "Professional Skills",
+  "skill.support": "Continuous learning",
+  "skill.teamwork": "Teamwork",
+  "skill.problem": "Problem solving",
+  "skill.english": "Technical English",
 
-  "resume.title":      "Education and experience",
-  "resume.education":  "Education",
+  "resume.title": "Education and Experience",
+  "resume.education": "Education",
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.1.text": "I am currently in my fourth semester. I have developed knowledge of programming, web development, and different software technologies.",
+  "edu.2.title": "Academic Training in Software Development",
+  "edu.2.text": "During my studies, I have developed practical knowledge through academic projects related to programming and application development.",
 
-  "exp.1.title": "[Role or type of project]",
-  "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
-  "exp.2.title": "[Role or type of project]",
-  "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.1.title": "Mystery and Puzzle Game Project",
+  "exp.1.text": "I participated in the development of an academic video game focused on mysteries and puzzles, using programming and game development tools.",
+  "exp.2.title": "Humidity Monitoring System",
+  "exp.2.text": "I developed an academic project focused on humidity monitoring to support the observation of soil conditions through technology and software.",
 
   "portfolio.title": "Projects",
-  "project.1.title": "[Project name]",
-  "project.1.text":  "[Technologies used]",
-  "project.2.title": "[Project name]",
-  "project.2.text":  "[Technologies used]",
-  "project.3.title": "[Project name]",
-  "project.3.text":  "[Technologies used]",
+  "project.1.title": "Mystery and Puzzle Game",
+  "project.1.text": "Godot · GDScript · Game Development",
+  "project.2.title": "Humidity Monitoring System",
+  "project.2.text": "Software · Sensors · Humidity Monitoring",
+  "project.3.title": "Academic Project",
+  "project.3.text": "Programming · Software Development",
 
-  "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
-  "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "[Your professional profile]",
+  "contact.title": "Contact",
+  "contact.intro": "You can contact me by email to learn more about my academic projects and my programming studies.",
+  "contact.emailLabel": "Email",
+  "contact.linkedinValue": "Professional profile",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "Angel Eduardo Duran Angarita · Professional Technician in Web Programming · UniEspinal"
 };
-
-
-/* ============================================================
-   3. LANGUAGE SWITCHER
-   You do not need to change the code below.
-   ============================================================ */
 
 const DICCIONARIOS = { es: ES, en: EN };
 let idiomaActual = "es";
@@ -180,14 +167,19 @@ function aplicarIdioma(idioma) {
   document.documentElement.lang = idioma;
 
   const boton = document.getElementById("btn-idioma");
+
   if (boton) {
     const otro = idioma === "es" ? "en" : "es";
+
     boton.innerHTML =
-      '<span class="idioma-activo">'   + idioma.toUpperCase() + '</span>' +
+      '<span class="idioma-activo">' + idioma.toUpperCase() + '</span>' +
       '<span class="idioma-sep">/</span>' +
-      '<span class="idioma-inactivo">' + otro.toUpperCase()   + '</span>';
-    boton.setAttribute("aria-label",
-      idioma === "es" ? "Switch to English" : "Cambiar a español");
+      '<span class="idioma-inactivo">' + otro.toUpperCase() + '</span>';
+
+    boton.setAttribute(
+      "aria-label",
+      idioma === "es" ? "Switch to English" : "Cambiar a español"
+    );
   }
 
   idiomaActual = idioma;
@@ -196,11 +188,6 @@ function aplicarIdioma(idioma) {
 function cambiarIdioma() {
   aplicarIdioma(idiomaActual === "es" ? "en" : "es");
 }
-
-
-/* ============================================================
-   4. RESPONSIVE MENU
-   ============================================================ */
 
 let menuVisible = false;
 
@@ -215,23 +202,18 @@ function cerrarMenu() {
   menuVisible = false;
 }
 
-
-/* ============================================================
-   5. SKILL BARS
-
-   The width comes from the data-percent attribute in index.html.
-   You can add or remove skills freely: this code does not depend
-   on how many there are.
-   ============================================================ */
-
 function animarHabilidades() {
   const barras = document.querySelectorAll(".progreso");
 
   const mostrar = barra => {
     const porcentaje = barra.getAttribute("data-percent") || "0";
     barra.style.width = porcentaje + "%";
+
     const etiqueta = barra.querySelector("span");
-    if (etiqueta) etiqueta.textContent = porcentaje + "%";
+
+    if (etiqueta) {
+      etiqueta.textContent = porcentaje + "%";
+    }
   };
 
   if (!("IntersectionObserver" in window)) {
@@ -246,15 +228,12 @@ function animarHabilidades() {
         obs.unobserve(entrada.target);
       }
     });
-  }, { threshold: 0.4 });
+  }, {
+    threshold: 0.4
+  });
 
   barras.forEach(barra => observador.observe(barra));
 }
-
-
-/* ============================================================
-   6. START
-   ============================================================ */
 
 document.addEventListener("DOMContentLoaded", () => {
   aplicarIdioma("es");
